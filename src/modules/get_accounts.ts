@@ -8,8 +8,7 @@ export async function get_accounts_by_owner(connection: Connection, owner: Publi
     for (const { pubkey, account } of token_resp.value) {
         accounts.push({
             pubkey,
-            accountInfo:SPL_ACCOUNT_LAYOUT.decode(account.data),
-            programId: TOKEN_PROGRAM_ID
+            accountInfo:SPL_ACCOUNT_LAYOUT.decode(account.data)
         });
     }
 
