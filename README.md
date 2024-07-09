@@ -5,7 +5,7 @@ ClarityAIO is a Solana protocol farming suite designed to help you manage and op
 - **Jupiter**: A swap router for trading and volume farming using DCF, swap, and cycle strategies.
 - **Zeta**: A perpetuals market configured to trade delta-neutral positions while generating volume.
 - **Drift**: Another perpetuals market configured to trade delta-neutral positions while generating volume.
-- **Tensor**: An NFT marketplace for automatic position rebalancing for both listings and bids to earn Tensor points.
+- **Tensor**: An NFT marketplace with farming for automatic position rebalancing for both listings and bids to earn Tensor points.
 
 ## Table of Contents
 
