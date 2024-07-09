@@ -53,13 +53,13 @@ ClarityAIO requires a JSON configuration file to set up the various protocols. B
 ```
 
 ### Configuration Details
-private_key: Your private key for authentication.
-main_rpc: The main RPC endpoint for the Solana network.
-webhook_url: The URL for receiving webhook notifications.
-farmer:
-long_wallet: The wallet address used for long positions in both perpetual markets.
-short_wallet: The wallet address used for short positions in both perpetual markets.
-tensor_api_key: Your API key for Tensor.
+private_key: Your private key for authentication. </br>
+main_rpc: The main RPC endpoint for the Solana network. </br>
+webhook_url: The URL for receiving webhook notifications. </br>
+farmer:</br>
+long_wallet: The wallet address used for long positions in both perpetual markets. </br>
+short_wallet: The wallet address used for short positions in both perpetual markets. </br>
+tensor_api_key: Your API key for Tensor. </br>
 
 
 ## Jupiter
