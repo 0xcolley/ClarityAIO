@@ -1,0 +1,10 @@
+{
+    "private_key":"",
+    "main_rpc":"",
+    "webhook_url":"",
+    "farmer":{
+       "long_wallet":"",
+       "short_wallet":"",
+       "tensor_api_key":""
+    }
+ }
