@@ -16,8 +16,6 @@ ClarityAIO is a Solana protocol farming suite designed to help you manage and op
 - [Zeta](#zeta)
 - [Drift](#drift)
 - [Tensor](#tensor)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
