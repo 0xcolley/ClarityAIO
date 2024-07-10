@@ -73,3 +73,6 @@ Drift is also configured to trade delta-neutral positions in the perpetuals mark
 
 ## Tensor
 Tensor is used for automatic position rebalancing in the NFT marketplace. It utilizes the tensor_api_key and rebalances listings and bids to earn Tensor points.
+
+## General Note
+Tensor needs a refactor, the code is a mess, unfortunately, I did not have time to refactor it fully, however, it is in working order.
